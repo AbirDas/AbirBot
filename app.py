@@ -1,7 +1,7 @@
 import streamlit as st
 import os
 import chromadb
-from langchain.text_splitter import RecursiveCharacterTextSplitter
+from langchain_text_splitters import RecursiveCharacterTextSplitter
 import ollama
 
 # Configure Streamlit page layout
