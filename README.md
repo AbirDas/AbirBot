@@ -61,4 +61,5 @@ streamlit run app.py
 * **Privacy By Design:** 100% of data parsing, embedding generation, vector matching, and model generation occur within the local machine perimeter—ideal for enterprise compliance evaluation scenarios.
 
 ===> Run looks like
-![1794256024059](image/README/1794256024059.png)
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/ade30c8a-d408-45c3-a11d-77ec001a54f3" />
+
