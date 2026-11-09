@@ -63,3 +63,6 @@ streamlit run app.py
 ===> Run looks like
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/ade30c8a-d408-45c3-a11d-77ec001a54f3" />
 
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/0ee1d45a-07e4-4670-8e7a-935055ebd468" />
+
+
