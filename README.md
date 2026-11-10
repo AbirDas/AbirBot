@@ -34,7 +34,7 @@ ollama pull llama3.2
 Navigate to the designated project environment:
 
 ```bash
-cd C:\AKD\workplace\Abir-Personal-Agent
+cd ...\AbirBot
 ```
 
 ### 4. Install Component Stack
